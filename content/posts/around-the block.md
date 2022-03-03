@@ -4,7 +4,7 @@ title: "Around the Block"
 date: "2022-03-03"
 description: "Around the Block é um panorama documental do movimento de descentralização alimentado em parte pelas criptomoedas."
 tags: ["web3", "ethereum"]
-categories: ["themes", "syntax"]
+categories: ["web3", "ethereum"]
 series: ["Around the Block"]
 aliases: ["paratii"]
 ShowToc: true

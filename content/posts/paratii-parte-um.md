@@ -4,7 +4,7 @@ title: "Paratii"
 date: "2022-03-02"
 description: "A história do primeiro projeto descentralizado brasileiro."
 tags: ["web3", "ethereum"]
-categories: ["themes", "syntax"]
+categories: ["web3", "ethereum"]
 series: ["Paratii"]
 aliases: ["paratii"]
 ShowToc: true
