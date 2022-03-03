@@ -76,8 +76,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "Web3Compendium" - https://github.com/thiago4int/compendium"
+    author: Alma Authors
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: dark
@@ -95,7 +95,7 @@ params:
 
     profileMode:
         enabled: false
-        title: PaperMod
+        title: Web3Compendium
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
