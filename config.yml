@@ -91,7 +91,7 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["alma-dao.png"]
 
     profileMode:
         enabled: false
