@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web3Compendium</title>
+    <link>https://web-three-school.web.app/</link>
+    <description>Recent content on Web3Compendium</description>
+    <image>
+      <url>https://web-three-school.web.app/papermod-cover.png</url>
+      <link>https://web-three-school.web.app/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://web-three-school.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation | Update</title>
+      <link>https://web-three-school.web.app/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web-three-school.web.app/posts/papermod/papermod-installation/</guid>
+      <description>Read Install and Update instructions here</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://web-three-school.web.app/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web-three-school.web.app/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Around the Block</title>
+      <link>https://web-three-school.web.app/posts/around-the-block/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web-three-school.web.app/posts/around-the-block/</guid>
+      <description>Around the Block é um panorama documental do movimento de descentralização alimentado em parte pelas criptomoedas.</description>
+    </item>
+    
+    <item>
+      <title>Paratii</title>
+      <link>https://web-three-school.web.app/posts/paratii-parte-um/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web-three-school.web.app/posts/paratii-parte-um/</guid>
+      <description>A história do primeiro projeto descentralizado brasileiro.</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://web-three-school.web.app/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web-three-school.web.app/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://web-three-school.web.app/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web-three-school.web.app/posts/placeholder-text/</guid>
+      <description>Lorem Ipsum Dolor Si Amet</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://web-three-school.web.app/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web-three-school.web.app/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://web-three-school.web.app/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web-three-school.web.app/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    
+    
+    
+    
+    
+  </channel>
+</rss>
