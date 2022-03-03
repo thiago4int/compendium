@@ -1,7 +1,7 @@
 ---
 author: "Alma Authors"
 title: "Around the Block"
-date: "2022-01-03"
+date: "2022-02-03"
 description: "Around the Block é um panorama documental do movimento de descentralização alimentado em parte pelas criptomoedas."
 tags: ["web3", "ethereum"]
 categories: ["web3", "ethereum"]
