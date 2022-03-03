@@ -122,7 +122,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/thiago4int/compendium/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
